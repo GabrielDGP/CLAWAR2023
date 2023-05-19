@@ -25,7 +25,7 @@ https://youtu.be/WAYrvXg6Bk0
 
 ![Slide11_eng](https://github.com/GabrielDGP/CLAWAR2023/assets/26473609/000f7e78-4213-49db-b91a-e22b25e870dc)
 
-=====================================================================================
+=====================================================================
 
 ![image](https://github.com/GabrielDGP/CLAWAR2023/assets/26473609/55f1288d-aae4-478d-8cf7-44cb4b11f7b6)
 
