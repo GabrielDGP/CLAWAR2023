@@ -8,7 +8,7 @@
 
 
 
-
+\usepackage[ruled, lined, linesnumbered, commentsnumbered, longend]{algorithm2e}
 \begin{algorithm}[!htb]
 \scriptsize
 \SetAlgorithmName{Pseudo-código}
